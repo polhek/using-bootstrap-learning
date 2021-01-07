@@ -1,0 +1,88 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #f72211;
+  color: white;
+  min-height: 50px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.burger {
+  cursor: pointer;
+  display: block;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  height: 4px;
+  width: 30px;
+  background-color: rgba(255, 255, 255, 0.55);
+}
+
+.main-title-lg {
+  font-size: 76px;
+  font-family: monospace, arial, sans-serif;
+  height: 95px;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}
+
+#login-btn {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  margin-right: 30px;
+}
+
+#subscribe-btn {
+  border: none;
+  font-weight: bold;
+  height: 30px;
+  background-color: yellow;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+
+.navbar-bottom {
+  border-bottom: 1px lightgray solid;
+}
+
+.list-item {
+  border-right: lightgray 1px solid;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+.search {
+  text-align: center;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+:hover.orange-hover {
+  color: #f72210;
+}
+
+.list-item-bottom {
+  color: #808080;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+  font-size: 15px;
+}
+
+.active {
+  color: black;
+}
+
+#temperature {
+  font-weight: bold;
+}
