@@ -249,6 +249,162 @@ header-news-info {
   padding-bottom: 100px;
 }
 
+.section-usa-header {
+  color: red;
+}
+
+.text-usa {
+  font-size: 19px;
+}
+
+.image-container-usa {
+  max-width: 110px;
+  max-height: 77px;
+  margin-right: 10px;
+}
+
+.item-usa {
+  margin-top: 10px;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+}
+
+.footer-logo-large {
+  color: #f72210;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer-logo-legal {
+  font-size: 12px;
+}
+
+.footer-eds {
+  color: grey;
+}
+
+.footer-grey {
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.footer-links {
+  font-size: 14px;
+  color: grey;
+}
+
+.orange {
+  color: #f72210;
+}
+
+.newsbox-title {
+  font-size: 22px;
+}
+
+.small-newsbox-img {
+  width: 110px;
+  height: 73px;
+}
+
+.large-newsbox-img {
+  width: 110px;
+  height: 110px;
+}
+
+.newsbox-hr {
+  margin-top: 10px;
+}
+
+.sub-box {
+  max-width: 100%;
+  background-color: #f4f5f6;
+}
+
+.sub-text {
+  width: 40%;
+}
+
+.simple-border {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.orange-btn {
+  background-color: #f72310;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+}
+
+.newsletter-sign-up {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: #f4f5f6;
+}
+
+.n-logo {
+  color: #333;
+  font: bold 19px/19px 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  border: 0 none;
+  list-style: none outside none;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  flex: none;
+  display: block;
+  width: 29px;
+  height: 28px;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
+  margin-right: 10px;
+}
+
+.n-logo-margins {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.newsletter-input {
+  color: grey;
+  width: 80%;
+}
+
+.newsletter-btn {
+  border: 0 none;
+  list-style: none outside none;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background: url(https://g.newsweek.com/www/images/free-sign-up.svg)
+    center/108px no-repeat #f61602;
+  border-radius: 3px;
+  width: 100%;
+  height: 32px;
+  line-height: 32px;
+  margin-top: 8px;
+}
+
+.magazine-img {
+  min-height: 290px;
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.editor-img {
+  min-height: 290px;
+  max-width: 100%;
+  margin-top: 10px;
+}
+
 @media screen and (min-width: 1000px) {
   .scrollable {
     overflow: scroll;
